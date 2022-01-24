@@ -69,19 +69,19 @@ ul li a:hover{
 @keyframes transition1
 {
     0%{
-        background-image: url('bg/img1.jpg');
+        background-image: url('img/bg/img1.jpg');
     }
     25%{
-        background-image: url('bg/img2.jpg');
+        background-image: url('img/bg/img2.jpg');
     }
     50%{
-        background-image: url('bg/img4.jpg');
+        background-image: url('img/bg/img4.jpg');
     }
     75%{
-        background-image: url('bg/img2.jpg');
+        background-image: url('img/bg/img2.jpg');
     }
     100%{
-        background-image: url('bg/img3.jpg');
+        background-image: url('img/bg/img3.jpg');
     }
 }
 
